@@ -22,7 +22,7 @@
     "android": "react-native-scripts-ts android",
     "ios": "react-native-scripts-ts ios",
     "test": "node node_modules/jest/bin/jest.js",
-    "jest": "jest"
+    "test:watch": "node node_modules/jest/bin/jest.js --watch"
   },
   "dependencies": {
     "@types/expo": "^24.0.7",
